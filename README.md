@@ -5,7 +5,7 @@
 
 
 # Project Overview
-This project aims to build a Diabetes Disease Prediction system using the Machine Learning algorithm SVM (Support Vector Machine), kernel - Linear regression
+This project aims to build a Diabetes Disease Prediction system using the Machine Learning algorithm SVM (Support Vector Machine), kernel 'Linear'
 
 # Data Sources
 The primary dataset used for this analysis is the multivariate type of dataset "diabetes" file. The dataset is publicly available on link - https://www.kaggle.com/datasets/uciml/pima-indians-diabetes-database
